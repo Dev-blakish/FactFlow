@@ -1,0 +1,10 @@
+# Welcome to your factflow
+
+This project is built with .
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
